@@ -1,0 +1,19 @@
+﻿h1 {
+    color: limegreen;
+    font-size: 100px;
+}
+img {
+    background-color: darkred;
+}
+
+.bacon {
+    background-color: darkgreen;
+}
+.broccoli {
+    background-color: darkred;
+    border-radius: 80%;
+}
+
+#title {
+    color: darkred;
+}
